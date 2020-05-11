@@ -20,3 +20,13 @@ to upgade package
 npm update -g @vue/cli
  OR
 yarn global upgrade --latest @vue/cli
+
+
+# sources
+since i couldnt get my css to work i used a different set up
+
+https://stackoverflow.com/questions/58927979/how-to-use-aos-inangular-7-8 
+
+this was not my original project this is the 3rd one 
+my first one i couldnt finish with out a code for my sql php to use for free for a book exchange  
+the 2nd one i didnt have a lisence from amazon to finsih sooooooo im giving you my last best thing my favorite bakery that i help out with !
